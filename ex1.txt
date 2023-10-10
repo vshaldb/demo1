@@ -1,3 +1,1 @@
-hi this is vishal
-i have added one more line
-this was the second new line
+Hi, Welcome to git demo
